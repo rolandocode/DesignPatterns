@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\healthydrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\unhealthydrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\interfaces\\iunhealthydrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\pineapplewithredbulljuice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\regularcoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\interfaces\\ihealthydrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\interfaces\\icoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\kiwijuice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\dietcoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11877CDB-D2D8-4861-86D2-37A4E43A4E07}|..\\BeberageApp\\BeberageApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\beberageapp\\interfaces\\ijuice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\regularvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:regularvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\regularbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:regularbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\sportvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:sportvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\interfaces\\ibike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:interfaces\\ibike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\regularcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:regularcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|c:\\users\\rolan\\desktop\\design patterns\\abstract factory\\transportapp\\transportapp\\sportbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354F015E-1029-43FA-80F0-0E9035BA7C73}|TransportApp.csproj|solutionrelative:sportbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnhealthyDrinks.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IUnhealthyDrinks.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\Interfaces\\IUnhealthyDrinks.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IUnhealthyDrinks.cs",
+              "RelativeToolTip": "..\\BeberageApp\\Interfaces\\IUnhealthyDrinks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:18:24.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthyDrinks.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\HealthyDrinks.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\HealthyDrinks.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\HealthyDrinks.cs",
+              "RelativeToolTip": "..\\BeberageApp\\HealthyDrinks.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:17:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHealthyDrinks.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IHealthyDrinks.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\Interfaces\\IHealthyDrinks.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IHealthyDrinks.cs",
+              "RelativeToolTip": "..\\BeberageApp\\Interfaces\\IHealthyDrinks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:14:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Program.cs",
+              "RelativeToolTip": "..\\BeberageApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:03:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnhealthyDrinks.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\UnhealthyDrinks.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\UnhealthyDrinks.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\UnhealthyDrinks.cs",
+              "RelativeToolTip": "..\\BeberageApp\\UnhealthyDrinks.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:19:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PineappleWithRedbullJuice.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\PineappleWithRedbullJuice.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\PineappleWithRedbullJuice.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\PineappleWithRedbullJuice.cs",
+              "RelativeToolTip": "..\\BeberageApp\\PineappleWithRedbullJuice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:13:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegularCoke.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\RegularCoke.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\RegularCoke.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\RegularCoke.cs",
+              "RelativeToolTip": "..\\BeberageApp\\RegularCoke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:12:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KiwiJuice.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\KiwiJuice.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\KiwiJuice.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\KiwiJuice.cs",
+              "RelativeToolTip": "..\\BeberageApp\\KiwiJuice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:10:48.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DietCoke.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\DietCoke.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\DietCoke.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\DietCoke.cs",
+              "RelativeToolTip": "..\\BeberageApp\\DietCoke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:08:01.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJuice.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IJuice.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\Interfaces\\IJuice.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\IJuice.cs",
+              "RelativeToolTip": "..\\BeberageApp\\Interfaces\\IJuice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:05:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICoke.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\ICoke.cs",
+              "RelativeDocumentMoniker": "..\\BeberageApp\\Interfaces\\ICoke.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\BeberageApp\\Interfaces\\ICoke.cs",
+              "RelativeToolTip": "..\\BeberageApp\\Interfaces\\ICoke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:05:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\IVehicleFactory.cs",
+              "RelativeToolTip": "Interfaces\\IVehicleFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:52:31.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportVehicleFactory.cs",
+              "RelativeDocumentMoniker": "SportVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportVehicleFactory.cs",
+              "RelativeToolTip": "SportVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:58:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegularVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularVehicleFactory.cs",
+              "RelativeDocumentMoniker": "RegularVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularVehicleFactory.cs",
+              "RelativeToolTip": "RegularVehicleFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:55:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportsCar.cs",
+              "RelativeDocumentMoniker": "SportsCar.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportsCar.cs",
+              "RelativeToolTip": "SportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:51:32.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegularCar.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularCar.cs",
+              "RelativeDocumentMoniker": "RegularCar.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularCar.cs",
+              "RelativeToolTip": "RegularCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:50:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SportBike.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportBike.cs",
+              "RelativeDocumentMoniker": "SportBike.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\SportBike.cs",
+              "RelativeToolTip": "SportBike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:49:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegularBike.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularBike.cs",
+              "RelativeDocumentMoniker": "RegularBike.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\RegularBike.cs",
+              "RelativeToolTip": "RegularBike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:44:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\ICar.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICar.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\ICar.cs",
+              "RelativeToolTip": "Interfaces\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:43:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBike.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\IBike.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBike.cs",
+              "ToolTip": "C:\\Users\\rolan\\Desktop\\Design patterns\\Abstract Factory\\TransportApp\\TransportApp\\Interfaces\\IBike.cs",
+              "RelativeToolTip": "Interfaces\\IBike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:43:26.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HI40ro2A9Yk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolan\\Desktop\\Design patterns\\Singleton\\SingletonApp\\SingletonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

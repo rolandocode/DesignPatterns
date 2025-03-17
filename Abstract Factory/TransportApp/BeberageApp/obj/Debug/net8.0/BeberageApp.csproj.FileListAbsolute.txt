@@ -1,0 +1,14 @@
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\bin\Debug\net8.0\BeberageApp.exe
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\bin\Debug\net8.0\BeberageApp.deps.json
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\bin\Debug\net8.0\BeberageApp.runtimeconfig.json
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\bin\Debug\net8.0\BeberageApp.dll
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\bin\Debug\net8.0\BeberageApp.pdb
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.AssemblyInfoInputs.cache
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.AssemblyInfo.cs
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.dll
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\refint\BeberageApp.dll
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.pdb
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\BeberageApp.genruntimeconfig.cache
+C:\Users\rolan\Desktop\Design patterns\Abstract Factory\TransportApp\BeberageApp\obj\Debug\net8.0\ref\BeberageApp.dll
